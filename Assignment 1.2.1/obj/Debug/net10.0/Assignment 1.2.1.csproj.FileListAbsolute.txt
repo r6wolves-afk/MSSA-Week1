@@ -1,0 +1,15 @@
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\obj\Debug\net10.0\Assignment 1.2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\obj\Debug\net10.0\Assignment 1.2.1.AssemblyInfoInputs.cache
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\obj\Debug\net10.0\Assignment 1.2.1.AssemblyInfo.cs
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\obj\Debug\net10.0\Assignment 1.2.1.csproj.CoreCompileInputs.cache
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\bin\Debug\net10.0\Assignment 1.2.1.exe
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\bin\Debug\net10.0\Assignment 1.2.1.deps.json
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\bin\Debug\net10.0\Assignment 1.2.1.runtimeconfig.json
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\bin\Debug\net10.0\Assignment 1.2.1.dll
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\bin\Debug\net10.0\Assignment 1.2.1.pdb
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\obj\Debug\net10.0\Assignment 1.2.1.dll
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\obj\Debug\net10.0\refint\Assignment 1.2.1.dll
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\obj\Debug\net10.0\Assignment 1.2.1.pdb
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\obj\Debug\net10.0\Assignment 1.2.1.genruntimeconfig.cache
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\obj\Debug\net10.0\ref\Assignment 1.2.1.dll
+C:\Users\Jaceo\source\repos\Assignment 1.2.1\obj\Debug\net10.0\Assignme.11209C03.Up2Date

@@ -1,0 +1,14 @@
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\bin\Debug\net10.0\Assignment1.3.1.exe
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\bin\Debug\net10.0\Assignment1.3.1.deps.json
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\bin\Debug\net10.0\Assignment1.3.1.runtimeconfig.json
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\bin\Debug\net10.0\Assignment1.3.1.dll
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\bin\Debug\net10.0\Assignment1.3.1.pdb
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\obj\Debug\net10.0\Assignment1.3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\obj\Debug\net10.0\Assignment1.3.1.AssemblyInfoInputs.cache
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\obj\Debug\net10.0\Assignment1.3.1.AssemblyInfo.cs
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\obj\Debug\net10.0\Assignment1.3.1.csproj.CoreCompileInputs.cache
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\obj\Debug\net10.0\Assignment1.3.1.dll
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\obj\Debug\net10.0\refint\Assignment1.3.1.dll
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\obj\Debug\net10.0\Assignment1.3.1.pdb
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\obj\Debug\net10.0\Assignment1.3.1.genruntimeconfig.cache
+C:\Users\Jaceo\Desktop\MSSA CAD24\ASSIGNMENTS\Assignment1.3.1\obj\Debug\net10.0\ref\Assignment1.3.1.dll
